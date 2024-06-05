@@ -17,6 +17,8 @@ West2-online studio was established in 1998. It is a student organization that c
 
 ## 其他
 
+我们的网站：[site.west2.online](https://site.west2.online)
+
 我们的 Wiki： [wiki.west2.online](https://wiki.west2.online)
 
 作业用通用 APi 文档: [doc.west2.online](https://doc.west2.online)
